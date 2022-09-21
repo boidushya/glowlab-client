@@ -23,9 +23,9 @@ const constants = {
 		raffle: "🎲",
 		loan: "🏦",
 	},
-	CREATE_ACCEPTED_MIMETYPES: ["image/jpeg", "image/png", "video/mp4"],
+	CREATE_ACCEPTED_MIMETYPES: ["image/jpeg", "image/png", "image/gif", "image/webp", "video/mp4"],
 	EXPLORE_PAGINATION_LIMIT: 12,
-	COPY_WARNING: "Use this address only on the Evmos",
+	COPY_WARNING: "Use this address only on Evmos",
 };
 
 export default constants;
